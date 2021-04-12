@@ -8,4 +8,7 @@ The file is uploaded on Google Drive,
 there is a ZIP and the folder too.
 
 
-The VIDEO PRESENTATION it is in this video link
+The VIDEO PRESENTATION it is in this video link:
+https://youtu.be/hG_WNq10TYY
+
+the presentation is just with the project when it runs
